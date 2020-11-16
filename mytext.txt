@@ -1,0 +1,2 @@
+This is my first text file created  in ubuntu.
+This isery exciting working in new terminal
